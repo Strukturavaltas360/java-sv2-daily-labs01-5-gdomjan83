@@ -1,2 +1,3 @@
 # java-sv2-daily-labs01
-1. heti feladatok Java Backend képzéshez (Java Backend excercises - week 1)
+
+Heti feladatok Java Backend képzéshez - 1. hét (Java Backend excercises - week 1)
